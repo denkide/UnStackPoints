@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CoM_UnstackPoints">
+</Property><Property Name="Solution File" Value="D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints.sln">
+</Property><Property Name="User Options File" Value="D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints.suo">
+</Property><Property Name="Date" Value="Thursday, May 21, 2009">
+</Property><Property Name="Time" Value="14:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CoM_UnstackPoints.sln" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CoM_UnstackPoints.suo" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints.suo">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CoM_UnstackPoints.csproj" Description="Project file successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CoM_UnstackPoints.csproj">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CoM_UnstackPoints.csproj.user" Description="Project user file successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CoM_UnstackPoints.csproj.user">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CLayer.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CLayer.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CSubs.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CSubs.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CToolbar.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CToolbar.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CUnstackPoints.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CUnstackPoints.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\fmUnstack.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\fmUnstack.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\fmUnstack.Designer.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\fmUnstack.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CInstaller.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CInstaller.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CInstaller.Designer.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\CInstaller.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\WindowWrapper.cs" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\WindowWrapper.cs">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\Resources\folder2.png" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\Resources\folder2.png">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\fmUnstack.resx" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\fmUnstack.resx">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\Properties\Resources.resx" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\Images\MovePoint.bmp" Description="File successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\CoM_UnstackPoints\Images\MovePoint.bmp">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CoM_UnstackPoints.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CoM_UnstackPoints.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="City of Medford Unstack Points Setup.vdproj" Source="City of Medford Unstack Points Setup\City of Medford Unstack Points Setup.vdproj" Description="Project file successfully backed up as D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\Backup\City of Medford Unstack Points Setup\City of Medford Unstack Points Setup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="CoM_UnstackPoints.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CoM_UnstackPoints.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CoM_UnstackPoints" Source="CoM_UnstackPoints\CoM_UnstackPoints.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

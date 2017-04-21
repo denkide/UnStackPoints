@@ -1,0 +1,11 @@
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\bin\Release\CoM_UnstackPoints.dll
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\bin\Release\System.Data.SqlClient.dll
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\ResolveAssemblyReference.cache
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\CoM_UnstackPoints.Images.MovePoint.bmp
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\CoM_UnstackPoints.fmUnstack.resources
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\CoM_UnstackPoints.Properties.Resources.resources
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\CoM_UnstackPoints.csproj.GenerateResource.Cache
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\CoM_UnstackPoints.dll
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\obj\Release\CoM_UnstackPoints.pdb
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\bin\Release\CoM_UnstackPoints.pdb
+D:\_David\_Development\Apps\ArcObjects\CoM_UnstackPoints\CoM_UnstackPoints\bin\Release\CoM_UnstackPoints.tlb
