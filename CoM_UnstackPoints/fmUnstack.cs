@@ -110,7 +110,6 @@ namespace CoM_UnstackPoints
                     m_pGXObj = pDataFiles.Next();
                     ///
                     /// added check for null to handle null m_pGXObj
-                    /// DJR: 11/05/2007
                     /// 
                     if (m_pGXObj != null)
                         txtOtherData.Text = m_pGXObj.FullName.ToString();
@@ -131,7 +130,6 @@ namespace CoM_UnstackPoints
         /// <param name="sender"></param>
         /// <param name="e"></param>
         ///<notes>
-        ///     11-7-2007:      djr
         ///         added a new lblMessage textbox for error messages and a 
         ///         try catch to catch all errors.
         /// </notes> 
