@@ -52,7 +52,7 @@ namespace CoM_UnstackPoints
         ///         http://forums.esri.com/Thread.asp?c=93&f=993&t=210767&mc=12#msgid652601
         /// </notes>
         /// <changelog>
-        ///      10-31-2007:    djr
+        ///         djr
         ///         comments created. 
         /// 
         /// </changelog>
@@ -87,11 +87,9 @@ namespace CoM_UnstackPoints
         ///         http://forums.esri.com/Thread.asp?c=93&f=993&t=210767&mc=12#msgid652601
         /// </notes>
         /// <changelog>
-        ///      10-31-2007:    djr
         ///         comments created.
         /// 
-        ///      11-7-2007:     djr
-        ///         added test for empty point 
+        ///      added test for empty point 
         /// </changelog>
         public void copyFeatures(IFeatureClass pSourceFC, IFeatureClass pDestinationFC, string sWhere, bool xyExists)
         {
@@ -145,7 +143,6 @@ namespace CoM_UnstackPoints
         ///         http://forums.esri.com/Thread.asp?c=93&f=993&t=210767&mc=12#msgid652601
         /// </notes>
         /// <changelog>
-        ///      10-31-2007:    djr
         ///         comments created. 
         /// 
         /// </changelog>
@@ -199,10 +196,9 @@ namespace CoM_UnstackPoints
         /// <param name="pTable">the table to sort and create offset xy values for the xy events</param>
         /// <param name="dblOffset">the amount in map units to offset the x and y</param>
         /// <changelog>
-        ///      10-31-2007:    djr
+        ///  
         ///         comments created. 
         /// 
-        ///      11-7-2007:     djr
         ///         added test to see if med_X has a length greater than 0
         /// </changelog>
         public void createOffset(ITable pTable, Double dblXOffset, Double dblYOffset, string xValue, string yValue)
@@ -270,7 +266,7 @@ namespace CoM_UnstackPoints
         /// <param name="sTableName">the name of the dbf to open</param>
         /// <param name="pSpatRef">the spatial ref for the prj file for the shapefile</param>\        
         /// <changelog>
-        ///      10-31-2007:    djr
+        ///
         ///         comments created. 
         /// 
         /// </changelog>
@@ -386,7 +382,7 @@ namespace CoM_UnstackPoints
         ///         http://forums.esri.com/Thread.asp?c=93&f=993&t=210767&mc=12#msgid652601
         /// </notes>
         /// <changelog>
-        ///      10-31-2007:    djr
+        ///  
         ///         comments created. 
         /// 
         /// </changelog>
